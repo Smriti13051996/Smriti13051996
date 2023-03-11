@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smriti13051996
-- 👀 I’m interested in data Science , Machine Learning an AI
+- 👀 I’m interested in data Science , Machine Learning and AI
 - 🌱 I’m currently learning data Science with python
 - 💞️ Have a happy coding to all !!
 - 📫 How to reach me :ssmriti920@gmail.com
